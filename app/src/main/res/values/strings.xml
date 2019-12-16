@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UseofRadioButton</string>
+    <string name="txt_title">RadioButton</string>
+    <string name="text_option1">Option1</string>
+    <string name="text_option2">Option2</string>
+    <string name="btn_validate">Validate</string>
+</resources>
